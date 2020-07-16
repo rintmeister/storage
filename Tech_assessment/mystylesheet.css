@@ -1,0 +1,90 @@
+body
+{
+font-family: Arial;
+font-size: 100%;
+
+}
+
+#center_stage
+{
+position: center;
+}
+
+/* You could use :after - it doesn't really matter */
+
+
+p
+{
+	  text-align: justify;
+	  width: 60%;
+
+}
+
+#descriptive_container
+{
+
+	
+	width:70%;
+	float:left;
+}
+
+#img_flt
+{
+width:60%;
+float:left;
+}
+#granny
+{
+	width:20vw;
+	height:12vw;
+	margin-left: 2%;
+	margin-top: -4%;
+	clear:both;
+}
+
+#links_container
+{
+	
+	width:30%;
+
+}
+#link_btn
+{
+	background-color: #15253c;
+	float:left;
+	width:30%;
+	text-align: center;
+	color:white;
+}
+
+.center {
+  text-align: justify;
+  list-style-position: inside;
+  margin-left: 12%;
+}
+.large_font
+{
+	font-size: 2em;
+	font-weight: bold;
+}
+
+button
+{
+  background-color: #ca3d4c;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 25px;
+  width:70%;
+  margin-top:10%;
+  margin-bottom:10%;
+}
+
+#map_img
+{
+margin-top: 10%;
+}
